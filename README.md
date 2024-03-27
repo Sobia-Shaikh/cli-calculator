@@ -1,2 +1,2 @@
 # cli-calculator
-a simple calculator
+ a simple cli calculator 
